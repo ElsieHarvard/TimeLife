@@ -1,2 +1,2 @@
 # TimeLife
-Calculate schedule by software. 
+Personal Scheduling Software Solution: adapted to students
