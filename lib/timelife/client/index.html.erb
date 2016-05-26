@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- Force UTF-8 decoding -->
+    <meta charset="utf-8">
+    <!-- Force WebKit rendering for dual-engine browser -->
+    <meta name="renderer" content="webkit">
+    <!-- Force Internet Explorer to Edge mode -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- Set Mobile Initial Scale to 1.0 -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Set Explorer to APP Mode -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <!-- Title -->
+    <title>TimeLife</title>
+    <!-- main css -->
+    <link rel="stylesheet" type="text/css" href="/css/shell-index.scss">
+    <link rel="stylesheet" type="text/css" href="/static/css/jquery.contextMenu.css">
+  </head>
+  <body>
+    <!-- Background -->
+    <div class="cd-background"></div>
+    <!-- Complied Application -->
+    <div class="cd-app"></div>
+    <!-- Source Application -->
+    <div class="cd-script">
+      <!-- environment -->
+      <script type="text/javascript" src="/static/shell/sprintf.js"></script>
+      <script type="text/javascript" src="/static/shell/jquery.js"></script>
+      <script type="text/javascript" src="/static/shell/quo.js"></script>
+      <script type="text/javascript" src="/static/shell/opal.js"></script>
+      <script type="text/javascript" src="/static/shell/opal-parser.js"></script>
+      <script type="text/javascript" src="/static/shell/opal-jquery.js"></script>
+      <script type="text/javascript" src="/static/shell/jquery.contextMenu.js"></script>
+      <script type="text/javascript" src="/static/shell/jquery.ui.position.js"></script>
+      <script type="text/javascript">Opal.load('opal-parser')</script>
+      <!-- Main Application -->
+      <script type="text/javascript">
+<%= jsapp %>
+      </script>
+      <script type="text/ruby">
+<%= rbapp %>
+      </script>
+    </div>
+  </body>
+</html>

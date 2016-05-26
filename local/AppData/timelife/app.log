@@ -1,0 +1,299 @@
+1459535142.128717:"\e"[1;37mTimeLife"\e"[0m "\e"[1;36m2.0.0"\e"[0m
+1459535142.128717:"\e"[1;34mStart local HTTP server on 127.0.0.1:12802."\e"[0m
+1459535297.612318:"\e"[1;37mTimeLife"\e"[0m "\e"[1;36m2.0.0"\e"[0m
+1459535297.612318:"\e"[1;34mStart local HTTP server on 127.0.0.1:12802."\e"[0m
+1459535309.384352:"\e"[1;34mGoalQuantification.check_to_do_list"\e"[0m
+1459535309.438399:"\e"[1;34mTomatoManagement.check"\e"[0m
+1459535315.1846888:"\e"[1;34mTomatoList.list"\e"[0m
+1459535317.826138:"\e"[1;34mGoal.tree"\e"[0m
+1459535319.5556622:"\e"[1;34mGoalQuantification.check_to_do_list"\e"[0m
+1459535319.642724:"\e"[1;34mTomatoManagement.check"\e"[0m
+1459551763.4760818:"\e"[1;34mGoal.tree"\e"[0m
+1459551771.476359:"\e"[1;34mTomatoList.list"\e"[0m
+1459558615.9148889:"\e"[1;37mTimeLife"\e"[0m "\e"[1;36m2.0.0"\e"[0m
+1459558615.93056:"\e"[1;34mStart local HTTP server on 192.168.137.1:12802."\e"[0m
+1459558638.829321:"\e"[1;37mTimeLife"\e"[0m "\e"[1;36m2.0.0"\e"[0m
+1459558638.829321:"\e"[1;34mStart local HTTP server on 192.168.173.1:12802."\e"[0m
+1459558665.064296:"\e"[1;34mGoalQuantification.check_to_do_list"\e"[0m
+1459558665.29546:"\e"[1;34mTomatoManagement.check"\e"[0m
+1459560796.0124328:"\e"[1;34mGoalQuantification.check_to_do_list"\e"[0m
+1459560796.189827:"\e"[1;34mTomatoManagement.check"\e"[0m
+1459561925.5222661:"\e"[1;34mGoal.tree"\e"[0m
+1459561933.590933:"\e"[1;34mTomatoList.list"\e"[0m
+1459562428.981452:"\e"[1;34mGoal.tree"\e"[0m
+1459562429.833058:"\e"[1;34mTomatoList.list"\e"[0m
+1459562430.308392:"\e"[1;34mGoalQuantification.check_to_do_list"\e"[0m
+1459562430.331411:"\e"[1;34mTomatoManagement.check"\e"[0m
+1459562432.076648:"\e"[1;34mGoalQuantification.check_to_do_list"\e"[0m
+1459562432.1316822:"\e"[1;34mTomatoManagement.check"\e"[0m
+1459562447.510705:"\e"[1;34mGoalQuantification.check_to_do_list"\e"[0m
+1459562447.608775:"\e"[1;34mTomatoManagement.check"\e"[0m
+1459562449.240122:"\e"[1;34mGoal.tree"\e"[0m
+1459562457.45212:"\e"[1;34mGoal.update"\e"[0m
+1459562457.4581199:"\e"[0;33m"#tshsh=&q-specific=specific&q-subject=I&q-verb=do&q-scalar=20&q-quantifier=minute&q-object=thing+12&q-deadline=2016-03-28T23%3A59&q-duration=1&q-finished=0""\e"[0m
+1459562457.469132:"\e"[0;32m#<TimeLife::GoalQuantification::Goal:0x00000004714888 @_parent=nil, @_children=[], @tshsh="d7a35df6c9bfd541dca615a76179eb3f", @attributes={:important=>#<ADRO::Exclusive{important|avocation} @state=nil>, :emergency=>#<ADRO::Exclusive{emergency|entertain} @state=nil>}, @foreigns={:potato=>[]}, @subject="I", @verb="do", @object="thing 12", @deadline=2016-03-28 23:59:00 +0800, @specific=true, @scalar=20, @finished=0, @quantifier="minute", @duration=1>"\e"[0m
+1459562463.7144132:"\e"[1;34mGoal.update"\e"[0m
+1459562463.721428:"\e"[0;33m"#tshsh=d7a35df6c9bfd541dca615a76179eb3f&q-specific=abstract&q-subject=I&q-verb=do&q-scalar=20&q-quantifier=minute&q-object=thing+12&q-deadline=2016-03-28T23%3A59&q-duration=1&q-finished=0""\e"[0m
+1459562463.732505:"\e"[0;32m#<TimeLife::GoalQuantification::Goal:0x00000004714888 @_parent=nil, @_children=[], @tshsh="d7a35df6c9bfd541dca615a76179eb3f", @attributes={:important=>#<ADRO::Exclusive{important|avocation} @state=nil>, :emergency=>#<ADRO::Exclusive{emergency|entertain} @state=nil>}, @foreigns={:potato=>[]}, @subject="I", @verb="do", @object="thing 12", @deadline=2016-03-28 23:59:00 +0800, @specific=false, @scalar=20, @finished=0, @quantifier="minute", @duration=1>"\e"[0m
+1459562472.396063:"\e"[1;34mGoal.move"\e"[0m
+1459562472.425083:"\e"[0;33m"d7a35df6c9bfd541dca615a76179eb3f:8860acb64cbed541c1f32403f4fee23f""\e"[0m
+1459562474.376466:"\e"[1;34mGoalQuantification.check_to_do_list"\e"[0m
+1459562481.650945:"\e"[1;34mGoal.tree"\e"[0m
+1459562721.138247:"\e"[1;34mGoal.tree"\e"[0m
+1459562722.872478:"\e"[1;34mGoalQuantification.check_to_do_list"\e"[0m
+1459562725.048504:"\e"[1;34mGoal.tree"\e"[0m
+1459562726.019267:"\e"[1;34mGoalQuantification.check_to_do_list"\e"[0m
+1459562727.765713:"\e"[1;34mTomatoList.list"\e"[0m
+1459562734.9542851:"\e"[1;34mGoal.tree"\e"[0m
+1459562735.395305:"\e"[1;34mGoalQuantification.check_to_do_list"\e"[0m
+1459562737.7756958:"\e"[1;34mGoal.tree"\e"[0m
+1459563236.817782:"\e"[1;34mGoalQuantification.check_to_do_list"\e"[0m
+1459563945.819307:"\e"[1;34mGoalQuantification.check_to_do_list"\e"[0m
+1459563949.515394:"\e"[1;34mGoalQuantification.check_to_do_list"\e"[0m
+1459563949.544487:"\e"[1;34mTomatoManagement.check"\e"[0m
+1459563952.974775:"\e"[1;34mGoal.tree"\e"[0m
+1459563955.091:"\e"[1;34mTomatoList.list"\e"[0m
+1459563959.4663072:"\e"[1;34mGoal.tree"\e"[0m
+1459564018.8183749:"\e"[1;34mGoalQuantification.check_to_do_list"\e"[0m
+1459564022.354346:"\e"[1;34mGoalQuantification.check_to_do_list"\e"[0m
+1459564022.3783329:"\e"[1;34mTomatoManagement.check"\e"[0m
+1459564026.1002398:"\e"[1;34mGoal.tree"\e"[0m
+1459564028.195691:"\e"[1;34mTomatoList.list"\e"[0m
+1459564042.1555169:"\e"[1;34mGoal.tree"\e"[0m
+1459571677.2210371:"\e"[1;37mTimeLife"\e"[0m "\e"[1;36m2.0.0"\e"[0m
+1459571677.2210371:"\e"[1;32mAvailable Arguments:"\e"[0m
+1459571677.2366788:"\e"[0;34mhelp"\e"[0m Show help message.
+1459571677.2366788:"\e"[0;34meval"\e"[0m Run input script for DEBUG.
+1459571677.2366788:"\e"[0;34mhttp.server"\e"[0m Start local HTTP server on 192.168.173.1:12802.
+1459571677.2366788:"\e"[0;34mhttp.handle"\e"[0m Show HTTP Handle
+1459571677.252287:"\e"[0;34mgoal.show"\e"[0m Show Goal tree.
+1459571677.252287:"\e"[0;34mgoal.update"\e"[0m Save a Goal.
+1459571677.252287:"\e"[0;34mgoal.move"\e"[0m Set `Goal[args[1]].parent=args[2]'. 
+1459571677.252287:"\e"[0;34mgoal.delete"\e"[0m Delete a Goal.
+1459571677.267929:"\e"[0;34mgoal.check"\e"[0m Check To-Do-List, specific goal only.
+1459571677.267929:"\e"[0;34mtomato.check"\e"[0m Check the schedule
+1459571677.267929:"\e"[0;34mtomato.show"\e"[0m List all tomatoes
+1459571677.267929:"\e"[0;34mtomato.update"\e"[0m Save a tomato.
+1459571677.2835379:"\e"[0;34mtomato.delete"\e"[0m Delete a tomato.
+1459571687.277652:"\e"[1;37mTimeLife"\e"[0m "\e"[1;36m2.0.0"\e"[0m
+1459571687.2932758:"\e"[1;32mAvailable Arguments:"\e"[0m
+1459571687.2932758:"\e"[0;34mhelp"\e"[0m Show help message.
+1459571687.2932758:"\e"[0;34meval"\e"[0m Run input script for DEBUG.
+1459571687.2932758:"\e"[0;34mhttp.server"\e"[0m Start local HTTP server on 192.168.173.1:12802.
+1459571687.3089:"\e"[0;34mhttp.handle"\e"[0m Show HTTP Handle
+1459571687.3089:"\e"[0;34mgoal.show"\e"[0m Show Goal tree.
+1459571687.3089:"\e"[0;34mgoal.update"\e"[0m Save a Goal.
+1459571687.3089:"\e"[0;34mgoal.move"\e"[0m Set `Goal[args[1]].parent=args[2]'. 
+1459571687.324526:"\e"[0;34mgoal.delete"\e"[0m Delete a Goal.
+1459571687.324526:"\e"[0;34mgoal.check"\e"[0m Check To-Do-List, specific goal only.
+1459571687.324526:"\e"[0;34mtomato.check"\e"[0m Check the schedule
+1459571687.324526:"\e"[0;34mtomato.show"\e"[0m List all tomatoes
+1459571687.34015:"\e"[0;34mtomato.update"\e"[0m Save a tomato.
+1459571687.34015:"\e"[0;34mtomato.delete"\e"[0m Delete a tomato.
+1459571692.934871:"\e"[1;37mTimeLife"\e"[0m "\e"[1;36m2.0.0"\e"[0m
+1459571692.950495:"\e"[1;34mGoal.tree"\e"[0m
+1459571692.997368:<div class="XML-goal-root">
+  <div class="XML-goal-structure">
+    <div class="XML-goal-node">
+      <div class='XML-goal-obj' q-tshsh='dbc420e72bbed541a7ee8d94f4e7e03f' q-subject="I" q-verb="tree" q-object="root 1" q-deadline="2016-04-02T00:00" q-specific="abstract"><span class="XML-goal-obj-general"><span class="XML-goal-obj-verb">tree</span> <span class="XML-goal-obj-object">root 1</span></span><small class="XML-goal-obj-deadline">2016-04-02 00:00</small></div>
+    </div>
+    <div class="XML-goal-children">
+      <div class="XML-goal-structure">
+        <div class="XML-goal-node">
+          <div class='XML-goal-obj' q-tshsh='cc807d6330bed541b07c4e2a2a0fa43f' q-subject="I" q-verb="do" q-object="thing 3" q-deadline="2016-03-28T23:59" q-specific="specific" q-scalar="20" q-finished="0" q-quantifier="minute" q-duration="1"><span class="XML-goal-obj-general"><span class="XML-goal-obj-verb">do</span> <span class="XML-goal-obj-scalar">20</span> <span class="XML-goal-obj-quantifier">minute</span> <span class="XML-goal-obj-preposition">of</span> <span class="XML-goal-obj-object">thing 3</span></span><small class="XML-goal-obj-deadline">20 minute before 2016-03-28 23:59</small></div>
+        </div>
+      </div>
+      <div class="XML-goal-structure">
+        <div class="XML-goal-node">
+          <div class='XML-goal-obj' q-tshsh='787e325630bed54160a98be3ace6ce3f' q-subject="I" q-verb="do" q-object="thing 2" q-deadline="2016-03-28T23:59" q-specific="specific" q-scalar="30" q-finished="0" q-quantifier="minute" q-duration="1"><span class="XML-goal-obj-general"><span class="XML-goal-obj-verb">do</span> <span class="XML-goal-obj-scalar">30</span> <span class="XML-goal-obj-quantifier">minute</span> <span class="XML-goal-obj-preposition">of</span> <span class="XML-goal-obj-object">thing 2</span></span><small class="XML-goal-obj-deadline">30 minute before 2016-03-28 23:59</small></div>
+        </div>
+      </div>
+      <div class="XML-goal-structure">
+        <div class="XML-goal-node">
+          <div class='XML-goal-obj' q-tshsh='8c4f6c332dbed541ae795c946c38d83f' q-subject="I" q-verb="do" q-object="thing 1" q-deadline="2016-03-28T23:59" q-specific="specific" q-scalar="30" q-finished="0" q-quantifier="minute" q-duration="1"><span class="XML-goal-obj-general"><span class="XML-goal-obj-verb">do</span> <span class="XML-goal-obj-scalar">30</span> <span class="XML-goal-obj-quantifier">minute</span> <span class="XML-goal-obj-preposition">of</span> <span class="XML-goal-obj-object">thing 1</span></span><small class="XML-goal-obj-deadline">30 minute before 2016-03-28 23:59</small></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="XML-goal-structure">
+    <div class="XML-goal-node">
+      <div class='XML-goal-obj' q-tshsh='e9811baf4cbed541f879ad6fa13dc63f' q-subject="I" q-verb="tree" q-object="root 2" q-deadline="2016-04-02T00:00" q-specific="abstract"><span class="XML-goal-obj-general"><span class="XML-goal-obj-verb">tree</span> <span class="XML-goal-obj-object">root 2</span></span><small class="XML-goal-obj-deadline">2016-04-02 00:00</small></div>
+    </div>
+    <div class="XML-goal-children">
+      <div class="XML-goal-structure">
+        <div class="XML-goal-node">
+          <div class='XML-goal-obj' q-tshsh='6aff730431bed54193631b791aedeb3f' q-subject="I" q-verb="do" q-object="thing 6" q-deadline="2016-03-28T23:59" q-specific="abstract"><span class="XML-goal-obj-general"><span class="XML-goal-obj-verb">do</span> <span class="XML-goal-obj-object">thing 6</span></span><small class="XML-goal-obj-deadline">2016-03-28 23:59</small></div>
+        </div>
+        <div class="XML-goal-children">
+          <div class="XML-goal-structure">
+            <div class="XML-goal-node">
+              <div class='XML-goal-obj' q-tshsh='09a7e1ec4cbed5412682c574c8eadd3f' q-subject="I" q-verb="do" q-object="thing 9" q-deadline="2016-03-28T23:59" q-specific="specific" q-scalar="20" q-finished="0" q-quantifier="minute" q-duration="1"><span class="XML-goal-obj-general"><span class="XML-goal-obj-verb">do</span> <span class="XML-goal-obj-scalar">20</span> <span class="XML-goal-obj-quantifier">minute</span> <span class="XML-goal-obj-preposition">of</span> <span class="XML-goal-obj-object">thing 9</span></span><small class="XML-goal-obj-deadline">20 minute before 2016-03-28 23:59</small></div>
+            </div>
+          </div>
+          <div class="XML-goal-structure">
+            <div class="XML-goal-node">
+              <div class='XML-goal-obj' q-tshsh='27317ff34cbed541d88d30554770c03f' q-subject="I" q-verb="do" q-object="thing 10" q-deadline="2016-03-28T23:59" q-specific="specific" q-scalar="20" q-finished="0" q-quantifier="minute" q-duration="1"><span class="XML-goal-obj-general"><span class="XML-goal-obj-verb">do</span> <span class="XML-goal-obj-scalar">20</span> <span class="XML-goal-obj-quantifier">minute</span> <span class="XML-goal-obj-preposition">of</span> <span class="XML-goal-obj-object">thing 10</span></span><small class="XML-goal-obj-deadline">20 minute before 2016-03-28 23:59</small></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="XML-goal-structure">
+        <div class="XML-goal-node">
+          <div class='XML-goal-obj' q-tshsh='8860acb64cbed541c1f32403f4fee23f' q-subject="I" q-verb="do" q-object="thing 7" q-deadline="2016-03-28T23:59" q-specific="abstract"><span class="XML-goal-obj-general"><span class="XML-goal-obj-verb">do</span> <span class="XML-goal-obj-object">thing 7</span></span><small class="XML-goal-obj-deadline">2016-03-28 23:59</small></div>
+        </div>
+        <div class="XML-goal-children">
+          <div class="XML-goal-structure">
+            <div class="XML-goal-node">
+              <div class='XML-goal-obj' q-tshsh='889eaab84cbed54184f218f0f8a8d83f' q-subject="I" q-verb="do" q-object="thing 8" q-deadline="2016-03-28T23:59" q-specific="abstract"><span class="XML-goal-obj-general"><span class="XML-goal-obj-verb">do</span> <span class="XML-goal-obj-object">thing 8</span></span><small class="XML-goal-obj-deadline">2016-03-28 23:59</small></div>
+            </div>
+            <div class="XML-goal-children">
+              <div class="XML-goal-structure">
+                <div class="XML-goal-node">
+                  <div class='XML-goal-obj' q-tshsh='5587f7f64cbed5411c3a5beecdffea3f' q-subject="I" q-verb="do" q-object="thing 11" q-deadline="2016-03-28T23:59" q-specific="specific" q-scalar="20" q-finished="0" q-quantifier="minute" q-duration="1"><span class="XML-goal-obj-general"><span class="XML-goal-obj-verb">do</span> <span class="XML-goal-obj-scalar">20</span> <span class="XML-goal-obj-quantifier">minute</span> <span class="XML-goal-obj-preposition">of</span> <span class="XML-goal-obj-object">thing 11</span></span><small class="XML-goal-obj-deadline">20 minute before 2016-03-28 23:59</small></div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="XML-goal-structure">
+            <div class="XML-goal-node">
+              <div class='XML-goal-obj' q-tshsh='ea0654e983bed5416345fe250f37ed3f' q-subject="I" q-verb="do" q-object="thing 9" q-deadline="2016-03-28T23:59" q-specific="abstract"><span class="XML-goal-obj-general"><span class="XML-goal-obj-verb">do</span> <span class="XML-goal-obj-object">thing 9</span></span><small class="XML-goal-obj-deadline">2016-03-28 23:59</small></div>
+            </div>
+            <div class="XML-goal-children">
+              <div class="XML-goal-structure">
+                <div class="XML-goal-node">
+                  <div class='XML-goal-obj' q-tshsh='73bf618a2bbfd54135b0522bd221e83f' q-subject="I" q-verb="do" q-object="thing 13" q-deadline="2016-03-28T23:59" q-specific="specific" q-scalar="20" q-finished="0" q-quantifier="minute" q-duration="1"><span class="XML-goal-obj-general"><span class="XML-goal-obj-verb">do</span> <span class="XML-goal-obj-scalar">20</span> <span class="XML-goal-obj-quantifier">minute</span> <span class="XML-goal-obj-preposition">of</span> <span class="XML-goal-obj-object">thing 13</span></span><small class="XML-goal-obj-deadline">20 minute before 2016-03-28 23:59</small></div>
+                </div>
+              </div>
+              <div class="XML-goal-structure">
+                <div class="XML-goal-node">
+                  <div class='XML-goal-obj' q-tshsh='72e0fc852bbfd5413fda266a140deb3f' q-subject="I" q-verb="do" q-object="thing 12" q-deadline="2016-03-28T23:59" q-specific="specific" q-scalar="20" q-finished="0" q-quantifier="minute" q-duration="1"><span class="XML-goal-obj-general"><span class="XML-goal-obj-verb">do</span> <span class="XML-goal-obj-scalar">20</span> <span class="XML-goal-obj-quantifier">minute</span> <span class="XML-goal-obj-preposition">of</span> <span class="XML-goal-obj-object">thing 12</span></span><small class="XML-goal-obj-deadline">20 minute before 2016-03-28 23:59</small></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+1459571698.727403:"\e"[1;37mTimeLife"\e"[0m "\e"[1;36m2.0.0"\e"[0m
+1459571698.743028:"\e"[1;32mAvailable Arguments:"\e"[0m
+1459571698.743028:"\e"[0;34mhelp"\e"[0m Show help message.
+1459571698.743028:"\e"[0;34meval"\e"[0m Run input script for DEBUG.
+1459571698.743028:"\e"[0;34mhttp.server"\e"[0m Start local HTTP server on 192.168.173.1:12802.
+1459571698.758653:"\e"[0;34mhttp.handle"\e"[0m Show HTTP Handle
+1459571698.758653:"\e"[0;34mgoal.show"\e"[0m Show Goal tree.
+1459571698.758653:"\e"[0;34mgoal.update"\e"[0m Save a Goal.
+1459571698.774278:"\e"[0;34mgoal.move"\e"[0m Set `Goal[args[1]].parent=args[2]'. 
+1459571698.774278:"\e"[0;34mgoal.delete"\e"[0m Delete a Goal.
+1459571698.774278:"\e"[0;34mgoal.check"\e"[0m Check To-Do-List, specific goal only.
+1459571698.7899048:"\e"[0;34mtomato.check"\e"[0m Check the schedule
+1459571698.7899048:"\e"[0;34mtomato.show"\e"[0m List all tomatoes
+1459571698.7899048:"\e"[0;34mtomato.update"\e"[0m Save a tomato.
+1459571698.7899048:"\e"[0;34mtomato.delete"\e"[0m Delete a tomato.
+1459571702.896124:"\e"[1;37mTimeLife"\e"[0m "\e"[1;36m2.0.0"\e"[0m
+1459571702.896124:"\e"[1;34mStart local HTTP server on 192.168.173.1:12802."\e"[0m
+1459571725.222882:"\e"[1;37mTimeLife"\e"[0m "\e"[1;36m2.0.0"\e"[0m
+1459571725.222882:"\e"[1;34mStart local HTTP server on 127.0.0.1:12802."\e"[0m
+1459571749.361067:"\e"[1;34mGoalQuantification.check_to_do_list"\e"[0m
+1459571749.4210718:"\e"[1;34mTomatoManagement.check"\e"[0m
+1459571759.467176:"\e"[1;34mGoal.tree"\e"[0m
+1459571770.904504:"\e"[1;34mGoal.move"\e"[0m
+1459571770.9085062:"\e"[0;33m"e9811baf4cbed541f879ad6fa13dc63f:787e325630bed54160a98be3ace6ce3f""\e"[0m
+1459571775.188084:"\e"[1;34mGoalQuantification.check_to_do_list"\e"[0m
+1459571775.208083:"\e"[1;34mTomatoManagement.check"\e"[0m
+1459571816.948859:"\e"[1;37mTimeLife"\e"[0m "\e"[1;36m2.0.0"\e"[0m
+1459571816.948859:"\e"[1;33m"TimeLife::DataService.reset""\e"[0m
+1459571816.964467:"\e"[1;31m!DATABASE RESETED!"\e"[0m
+1459571826.495571:"\e"[1;37mTimeLife"\e"[0m "\e"[1;36m2.0.0"\e"[0m
+1459571826.511198:"\e"[1;34mStart local HTTP server on 127.0.0.1:12802."\e"[0m
+1459571830.472893:"\e"[1;34mGoalQuantification.check_to_do_list"\e"[0m
+1459571842.114495:"\e"[1;34mGoalQuantification.check_to_do_list"\e"[0m
+1459571862.355632:"\e"[1;34mGoal.tree"\e"[0m
+1459572022.139947:"\e"[1;34mGoal.update"\e"[0m
+1459572022.1479418:"\e"[0;33m"#tshsh=&q-specific=abstract&q-subject=I&q-verb=finish&q-scalar=6&q-quantifier=entry&q-object=&q-deadline=2016-04-14T04%3A55&q-duration=6&q-finished=5""\e"[0m
+1459572022.1519308:"\e"[1;31mEmpty argument: 'q-object'."\e"[0m
+1459572102.390709:"\e"[1;34mGoalQuantification.check_to_do_list"\e"[0m
+1459572104.077387:"\e"[1;34mGoal.tree"\e"[0m
+1459572120.149547:"\e"[1;34mGoalQuantification.check_to_do_list"\e"[0m
+1459572123.9098392:"\e"[1;34mGoal.tree"\e"[0m
+1459572152.941098:"\e"[1;34mGoal.update"\e"[0m
+1459572152.945099:"\e"[0;33m"#tshsh=&q-specific=abstract&q-subject=I&q-verb=write&q-scalar=2&q-quantifier=entry&q-object=12344&q-deadline=2016-04-02T07%3A07&q-duration=4&q-finished=2""\e"[0m
+1459572152.953098:"\e"[0;32m#<TimeLife::GoalQuantification::Goal:0x0000000433b518 @_parent=nil, @_children=[], @tshsh="45be3c6ed3bfd541b51df49385cde73f", @attributes={:important=>#<ADRO::Exclusive{important|avocation} @state=nil>, :emergency=>#<ADRO::Exclusive{emergency|entertain} @state=nil>}, @foreigns={:potato=>[]}, @subject="I", @verb="write", @object="12344", @deadline=2016-04-02 07:07:00 +0800, @specific=false, @scalar=nil, @finished=0, @quantifier="", @duration=nil>"\e"[0m
+1459572187.874758:"\e"[1;34mGoal.update"\e"[0m
+1459572187.8787682:"\e"[0;33m"#tshsh=&q-specific=abstract&q-subject=I&q-verb=write&q-scalar=&q-quantifier=&q-object=12355&q-deadline=2016-04-02T07%3A07&q-duration=&q-finished=""\e"[0m
+1459572187.882758:"\e"[0;32m#<TimeLife::GoalQuantification::Goal:0x000000042dda30 @_parent=nil, @_children=[], @tshsh="bd3df876d3bfd541d21b5c89e383da3f", @attributes={:important=>#<ADRO::Exclusive{important|avocation} @state=nil>, :emergency=>#<ADRO::Exclusive{emergency|entertain} @state=nil>}, @foreigns={:potato=>[]}, @subject="I", @verb="write", @object="12355", @deadline=2016-04-02 07:07:00 +0800, @specific=false, @scalar=nil, @finished=0, @quantifier="", @duration=nil>"\e"[0m
+1459572198.435703:"\e"[1;34mGoalQuantification.check_to_do_list"\e"[0m
+1459572210.3153348:"\e"[1;34mGoal.tree"\e"[0m
+1459572230.850858:"\e"[1;37mTimeLife"\e"[0m "\e"[1;36m2.0.0"\e"[0m
+1459572230.850858:"\e"[1;34mStart local HTTP server on 127.0.0.1:12802."\e"[0m
+1459572234.4231858:"\e"[1;34mGoalQuantification.check_to_do_list"\e"[0m
+1459572234.459188:"\e"[1;34mTomatoManagement.check"\e"[0m
+1459572237.251992:"\e"[1;34mGoal.tree"\e"[0m
+1459572464.345592:"\e"[1;37mTimeLife"\e"[0m "\e"[1;36m2.0.0"\e"[0m
+1459572464.345592:"\e"[1;34mStart local HTTP server on 127.0.0.1:12802."\e"[0m
+1459572551.0091462:"\e"[1;34mGoalQuantification.check_to_do_list"\e"[0m
+1459572551.0291462:"\e"[1;34mTomatoManagement.check"\e"[0m
+1459572555.360076:"\e"[1;34mGoalQuantification.check_to_do_list"\e"[0m
+1459572555.392076:"\e"[1;34mTomatoManagement.check"\e"[0m
+1459572561.314785:"\e"[1;34mTomatoList.list"\e"[0m
+1459603141.01665:"\e"[1;37mTimeLife"\e"[0m "\e"[1;36m2.0.0"\e"[0m
+1459603141.01665:"\e"[1;34mStart local HTTP server on 127.0.0.1:12802."\e"[0m
+1459603176.006778:"\e"[1;34mGoalQuantification.check_to_do_list"\e"[0m
+1459603176.0848398:"\e"[1;34mTomatoManagement.check"\e"[0m
+1459603184.940922:"\e"[1;34mTomatoList.list"\e"[0m
+1459603189.317997:"\e"[1;34mGoal.tree"\e"[0m
+1459603221.189132:"\e"[1;34mGoal.delete"\e"[0m
+1459603221.195138:"\e"[0;33m"dbc420e72bbed541a7ee8d94f4e7e03f""\e"[0m
+1459603223.6330419:"\e"[1;34mGoal.delete"\e"[0m
+1459603223.637047:"\e"[0;33m"8c4f6c332dbed541ae795c946c38d83f""\e"[0m
+1459603225.5808342:"\e"[1;34mGoal.delete"\e"[0m
+1459603225.5863838:"\e"[0;33m"787e325630bed54160a98be3ace6ce3f""\e"[0m
+1459603227.568613:"\e"[1;34mGoal.delete"\e"[0m
+1459603227.571616:"\e"[0;33m"cc807d6330bed541b07c4e2a2a0fa43f""\e"[0m
+1459603230.853149:"\e"[1;34mGoal.delete"\e"[0m
+1459603230.8561542:"\e"[0;33m"e9811baf4cbed541f879ad6fa13dc63f""\e"[0m
+1459603234.666934:"\e"[1;34mGoal.delete"\e"[0m
+1459603234.670947:"\e"[0;33m"6aff730431bed54193631b791aedeb3f""\e"[0m
+1459603236.717629:"\e"[1;34mGoal.delete"\e"[0m
+1459603236.721584:"\e"[0;33m"8860acb64cbed541c1f32403f4fee23f""\e"[0m
+1459603239.027223:"\e"[1;34mGoal.delete"\e"[0m
+1459603239.0322182:"\e"[0;33m"889eaab84cbed54184f218f0f8a8d83f""\e"[0m
+1459603240.744745:"\e"[1;34mGoalQuantification.check_to_do_list"\e"[0m
+1459603240.762801:"\e"[1;34mTomatoManagement.check"\e"[0m
+1459603243.6681411:"\e"[1;34mTomatoList.list"\e"[0m
+1459603245.179574:"\e"[1;34mGoal.tree"\e"[0m
+1459603249.690014:"\e"[1;34mGoal.delete"\e"[0m
+1459603249.693991:"\e"[0;33m"09a7e1ec4cbed5412682c574c8eadd3f""\e"[0m
+1459603251.6978781:"\e"[1;34mGoal.delete"\e"[0m
+1459603251.701867:"\e"[0;33m"27317ff34cbed541d88d30554770c03f""\e"[0m
+1459603254.07849:"\e"[1;34mGoal.delete"\e"[0m
+1459603254.082483:"\e"[0;33m"5587f7f64cbed5411c3a5beecdffea3f""\e"[0m
+1459603256.299219:"\e"[1;34mGoal.delete"\e"[0m
+1459603256.303222:"\e"[0;33m"ea0654e983bed5416345fe250f37ed3f""\e"[0m
+1459603259.410912:"\e"[1;34mGoal.delete"\e"[0m
+1459603259.413915:"\e"[0;33m"72e0fc852bbfd5413fda266a140deb3f""\e"[0m
+1459603262.5197818:"\e"[1;34mGoal.delete"\e"[0m
+1459603262.5227818:"\e"[0;33m"73bf618a2bbfd54135b0522bd221e83f""\e"[0m
+1459603266.707801:"\e"[1;34mGoalQuantification.check_to_do_list"\e"[0m
+1459603284.470874:"\e"[1;37mTimeLife"\e"[0m "\e"[1;36m2.0.0"\e"[0m
+1459603284.470874:"\e"[1;32mAvailable Arguments:"\e"[0m
+1459603284.486482:"\e"[0;34mhelp"\e"[0m Show help message.
+1459603284.486482:"\e"[0;34meval"\e"[0m Run input script for DEBUG.
+1459603284.486482:"\e"[0;34mhttp.server"\e"[0m Start local HTTP server on 127.0.0.1:12802.
+1459603284.486482:"\e"[0;34mhttp.handle"\e"[0m Show HTTP Handle
+1459603284.5021062:"\e"[0;34mgoal.show"\e"[0m Show Goal tree.
+1459603284.5021062:"\e"[0;34mgoal.update"\e"[0m Save a Goal.
+1459603284.5021062:"\e"[0;34mgoal.move"\e"[0m Set `Goal[args[1]].parent=args[2]'. 
+1459603284.5021062:"\e"[0;34mgoal.delete"\e"[0m Delete a Goal.
+1459603284.5177448:"\e"[0;34mgoal.check"\e"[0m Check To-Do-List, specific goal only.
+1459603284.5177448:"\e"[0;34mtomato.check"\e"[0m Check the schedule
+1459603284.5177448:"\e"[0;34mtomato.show"\e"[0m List all tomatoes
+1459603284.5333602:"\e"[0;34mtomato.update"\e"[0m Save a tomato.
+1459603284.5333602:"\e"[0;34mtomato.delete"\e"[0m Delete a tomato.
+1459645205.126005:"\e"[1;37mTimeLife"\e"[0m "\e"[1;36m2.0.0"\e"[0m
+1459645205.126005:"\e"[1;34mStart local HTTP server on 127.0.0.1:12802."\e"[0m
+1459645510.916066:"\e"[1;34mGoalQuantification.check_to_do_list"\e"[0m
+1459648162.061345:"\e"[1;34mGoalQuantification.check_to_do_list"\e"[0m
+1459648164.317794:"\e"[1;34mGoal.tree"\e"[0m
+1459648168.9508421:"\e"[1;34mTomatoList.list"\e"[0m
+1459649275.579917:"\e"[1;34mGoal.tree"\e"[0m
